@@ -1,4 +1,4 @@
-## Hey Guys Welcome to a brief intro into docker 
+## Hey Guys Welcome to a brief introduction to docker 
 ![Alt text](Images/DOCKER.jpg)
 
 ### INTRODUCTION
